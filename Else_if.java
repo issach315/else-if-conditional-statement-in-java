@@ -17,7 +17,7 @@ public class Else_if
         System.out.println("enter your time ");
 
         int time= sc.nextInt();
-
+        // enter the time now it wishes the employees according to the time
         if (time <= 10)
          {
             System.out.println("good morning");
