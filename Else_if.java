@@ -13,7 +13,7 @@ public class Else_if
         
         
         Scanner sc = new Scanner(System.in);
-
+        // taking the input from the console
         System.out.println("enter your time ");
 
         int time= sc.nextInt();
