@@ -6,6 +6,12 @@ public class Else_if
     public static void main(String[] args)
      
     {
+        /*
+        conditional statement in java else if in
+        java 
+        */
+        
+        
         Scanner sc = new Scanner(System.in);
 
         System.out.println("enter your time ");
